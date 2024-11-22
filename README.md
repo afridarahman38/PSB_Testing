@@ -1,6 +1,7 @@
 # PSB_Testing
 The **Palli Sanchay Bank(PSB)** Testing Project ensures the reliability, security, and performance of a banking application through rigorous software quality assurance. The project includes manual testing, database validation, performance and security assessments, and regression testing. Key deliverables include detailed test plans, test cases, checklists, and TDD framework implementations. By retesting and verifying exit criteria, the project ensures a seamless and robust user experience for banking operations.
 
+
 ## Key Features Tested
 **1. Manual Testing**
 - Verified the application’s functionality by executing test cases for core banking features such as account creation, deposits, withdrawals, and loan processing.
@@ -22,6 +23,7 @@ The **Palli Sanchay Bank(PSB)** Testing Project ensures the reliability, securit
 - Ensured new updates or features did not disrupt existing functionalities.
 - Automated repetitive regression tests to improve efficiency and coverage.
 
+
 ## Responsibilities
 **Developed and Executed Test Plans and Cases**
 - Designed comprehensive test plans, test cases, and checklists tailored to banking workflows.
@@ -34,14 +36,14 @@ The **Palli Sanchay Bank(PSB)** Testing Project ensures the reliability, securit
 - Performed retesting to validate defect resolutions.
 - Ensured all exit criteria were met before the release of the application.
 
+
 ## Tools and Technologies Used
-**Testing Tools:** JIRA, TestRail, and Selenium for defect management, test case execution, and automated regression testing.
+**Testing Tools:** TestRail, and Selenium for defect management, test case execution, and automated regression testing.
 
 **Database Tools:** SQL for database queries and validation.
 
 **Performance Tools:** Apache JMeter for load and performance testing.
 
-**Security Tools:** OWASP ZAP for vulnerability assessments.
 
 ## Project Artifacts
 **Test Plan:** Document outlining the scope, objectives, testing types, and schedule.
@@ -51,6 +53,7 @@ The **Palli Sanchay Bank(PSB)** Testing Project ensures the reliability, securit
 **Checklists:** Itemized testing checkpoints to ensure coverage of all critical areas.
 
 **Reports:** Detailed test summary reports, defect reports, performance analysis, and security assessment findings.
+
 
 ## How to Contribute
 - Clone the repository:
@@ -66,3 +69,4 @@ git clone https://github.com/your-repo/palli-sanchay-bank.git
 
 - Submit pull requests with detailed descriptions for review.
 
+#### Feel free to contribute, open issues, or provide feedback to enhance the quality of the ** Palli Sanchay Bank(PSB) ** application!
